@@ -261,7 +261,6 @@ while not exit:
                 sprite_y = (height - 10)
 
     # map change logic
-    print(map_num, type(map_num))
     maps_list[map_num](events)
 
 
